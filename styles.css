@@ -1,0 +1,63 @@
+
+
+.title{
+    font-size: 60;
+    font-family: cursive;
+    color: #f79d5c;
+    
+}
+
+.motto{
+    font-style: italic;
+    color: #f79d5c;
+    
+}
+
+h4{
+    color: #f1bc58;   
+    text-align: center;
+}
+
+hr{
+    border-color: #34302a;
+}
+
+.logo{
+    width: 400px;
+}
+
+p{
+    font-size: 20px;
+    color: #603710;
+}
+
+
+.large{
+    display: flex;
+    flex: wrap;
+    flex-wrap: wrap-reverse;
+}
+
+.small{
+    width: 300px;
+}
+
+.container, .texts{
+    background-color: #a08982;
+    display: flex;
+    align-items: center;
+}
+
+.srcs{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+h2{
+    color: #f79d5c;
+}
+
+link{
+    color: #ff2a04;
+}
